@@ -10,7 +10,7 @@
 
 			<u><a href="profile.php">Profile</a></u><br>
 			<u><a href="changepassword.php">Change Password</a></u><br>
-			<u><a href="Login.php">Log Out</a></u><br>
+			<u><a href="logout.php">Log Out</a></u><br>
 
 		</center>	
 

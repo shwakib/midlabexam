@@ -18,11 +18,12 @@
 				<input type="text" name="uname"> <br>
 				User Type <br>
 				______________________<br>
-				<input type="radio" name="usertype">User
-				<input type="radio" name="usertype">Admin <br>
+				<input type="radio" name="usertype" value="user">User
+				<input type="radio" name="usertype" value="admin">Admin <br>
 				______________________<br>
 				<input type="submit" name="signup" value="Sign Up">
 				<u><a href="Login.php">Sign In</a></u>
+
 
 	  	</fieldset>
 	</form>
